@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @peppcy
 - 👀 I’m interested in Cloud and Security
 - 🌱 I’m currently learning ITIL
-- 💞️ I’m looking to collaborate on Scripting,Python,Ruby 
+- 💞️ I’m looking to collaborate on IT Networking, Database Design & Development, Scripting,Python,Ruby 
 - 📫 How to reach me ... peppcy@msn.com
 
 <!---
